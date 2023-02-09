@@ -1,4 +1,4 @@
-# File-sharing-Bot
+# FSB
 
 <p align="center">
   <a href="https://www.python.org">
